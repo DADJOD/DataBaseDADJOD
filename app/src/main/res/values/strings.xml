@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaseDateDADJOD</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="name">Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Login">Войти</string>
+    <string name="Registration">Регистрация</string>
+    <string name="start">Начать</string>
+    <string name="buttonContinue">Продолжить</string>
+    <string name="exit">Выйти из аккаунта</string>
+    <string name="choose_image">Choose image</string>
+</resources>
